@@ -12,7 +12,7 @@ package main
 import (
     "github.com/go-redis/redis"
     "github.com/gorilla/sessions"
-    "github.com/rbcervilla/redisstore"
+    "github.com/danielthank/redisstore"
     "log"
     "net/http"
     "net/http/httptest"
